@@ -1,0 +1,21 @@
+# Virtual environment
+new_env/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# VS Code settings
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Data files created at runtime (optional)
+# data/
