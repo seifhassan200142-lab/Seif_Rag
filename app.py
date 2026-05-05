@@ -13,6 +13,7 @@ st.set_page_config(page_title="Medical RAG Assistant", page_icon="🩺")
 
 st.title("🩺 Medical RAG Chatbot")
 
+
 # ✅ استخدام st.cache_resource عشان الـ engine يتعمل مرة واحدة بس مش مع كل سؤال
 @st.cache_resource
 def load_engine():
